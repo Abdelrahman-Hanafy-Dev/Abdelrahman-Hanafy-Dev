@@ -24,10 +24,10 @@ Currently I'm :-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![haskell_icon](https://img.icons8.com/officel/40/000000/haskell.png) Haskell.
 
 # Technologies I worked with
-- ![flutter_logo](https://img.icons8.com/color/48/000000/flutter.png) Flutter.
-- ![node_logos](https://img.icons8.com/color/48/000000/nodejs.png) Node.JS &nbsp;&nbsp; & &nbsp;&nbsp; ![express_logo]()
-- ![asp_logo]()
-- ![flask_logo]()
+- Flutter.
+- Node.JS & ExpressJS.
+- ASP.NET
+- Flask
 
 
 <!--
