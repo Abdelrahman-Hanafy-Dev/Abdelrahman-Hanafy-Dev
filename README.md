@@ -8,7 +8,9 @@ Currently I'm :-
 - Working on improving my Flutter development skills by implementing beautiful UIs.
 
 # Connect with me
-
+[![Gmail-Icon](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:abdelrahmanhanafydev@gmail.com)
+[![LinkedIn-Icon](linkedin-icon.png)](https://www.linkedin.com/in/abdelrahman-hanafy-dev/)
+[![Twitter-Icon](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/AHanafy6)
 
 
 
