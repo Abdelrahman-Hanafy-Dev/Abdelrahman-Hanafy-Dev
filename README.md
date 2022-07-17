@@ -24,12 +24,17 @@ Currently I'm :-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![haskell_icon](https://img.icons8.com/officel/40/000000/haskell.png) Haskell.
 
 # Technologies I worked with
-- Flutter.
-- Node.JS & ExpressJS.
-- ASP.NET
-- Flask
+- [![flutter_icon](https://img.icons8.com/color/48/000000/flutter.png) Flutter.](https://flutter.dev/)
+- [![nodejs_icon](nodejs_icon.png) Node.JS](https://nodejs.org/en/) & [![expressjs_icon](expressjs_icon.png) ExpressJS.](https://expressjs.com/)
+- [![asp.net_icon](dot_net_icon.png) ASP.NET.](https://dotnet.microsoft.com/en-us/apps/aspnet)
+- [![flask_icon](flask_icon.png) Flask.](https://flask.palletsprojects.com/en/2.1.x/)
 
+# Database Engines I worked with
 
+- [![mysql_logo](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/) [MySQL.](https://www.mysql.com/).
+- [![postgresql_logo](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/) [PostgreSQL.](https://www.postgresql.org/).
+- [![sqlite_icon](sqlite_icon.png) SQLite.](https://www.sqlite.org/index.html)
+- [Microsoft SQL Server.](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 <!--
 **Abdelrahman-Hanafy-Dev/Abdelrahman-Hanafy-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
