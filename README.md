@@ -33,7 +33,7 @@ Currently I'm :-
 
 - [![mysql_logo](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/) [MySQL.](https://www.mysql.com/).
 - [![postgresql_logo](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/) [PostgreSQL.](https://www.postgresql.org/).
-- [![sqlite_icon](sqlite_icon.png) SQLite.](https://www.sqlite.org/index.html)
+- [![sqlite_icon](sqlite_logo_big.png) SQLite.](https://www.sqlite.org/index.html)
 - [Microsoft SQL Server.](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 <!--
 **Abdelrahman-Hanafy-Dev/Abdelrahman-Hanafy-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
