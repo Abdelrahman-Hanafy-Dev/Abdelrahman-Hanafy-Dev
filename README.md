@@ -1,13 +1,13 @@
 ![banner](github_banner.jpg)
 
 # About
-I'm a passionate Egyptian CS student at the German University in Cairo (GUC), just finished my 6th semester and eager to learn new things and gain experience.
+I'm a passionate Egyptian CS student at the German University in Cairo (GUC), currently in the 8th semester and eager to learn new things and gain experience.
 
-### Here you can [view my resume.](https://drive.google.com/file/d/1b1opf_Qme0M6U_uOc8KWCCI8vJ9Jht89/view?usp=sharing)
+### Here you can [view my resume.](https://drive.google.com/file/d/1zCCIGXtPE-C4uYeGjbVe2Ts4jeW5Wp2V/view?usp=sharing)
 
 Currently I'm :-
 - Working on enhancing my problem solving skills.
-- Working on improving my Flutter development skills by implementing beautiful UIs.
+- Working on improving my web development skills by implementing beautiful UIs and buildin complex systems.
 
 # Connect with me
 [![Gmail-Icon](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:abdelrahmanhanafydev@gmail.com)
@@ -16,18 +16,21 @@ Currently I'm :-
 > **_NOTE:_**  You can send me an email using the Gmail icon or using [abdelrahmanhanafydev@gmail.com](mailto:abdelrahmanhanafydev@gmail.com).
 
 # Programing languages I learned
-- ![python_icon](https://img.icons8.com/color/48/000000/python--v1.png) Python.
+- ![typescript](https://github.com/Abdelrahman-Hanafy-Dev/Abdelrahman-Hanafy-Dev/blob/main/icons8-typescript-48.png) TypeScript
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![javascript icon](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript.
 - ![dart_icon](https://img.icons8.com/color/48/000000/dart.png) Dart.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![java_icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) Java.
 - ![c#_icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#.
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![haskell_icon](https://img.icons8.com/officel/40/000000/haskell.png) Haskell.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python_icon](https://img.icons8.com/color/48/000000/python--v1.png) Python.
+- ![php_logo](https://github.com/Abdelrahman-Hanafy-Dev/Abdelrahman-Hanafy-Dev/blob/main/icons8-php-logo-40.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![haskell_icon](https://img.icons8.com/officel/40/000000/haskell.png) Haskell.
 
 # Technologies I worked with
-- [![flutter_icon](https://img.icons8.com/color/48/000000/flutter.png) Flutter.](https://flutter.dev/)
+- [![react_icon](https://github.com/Abdelrahman-Hanafy-Dev/Abdelrahman-Hanafy-Dev/blob/main/icons8-react-40.png) React.](https://react.dev/)
+- [![Angular_icon](https://github.com/Abdelrahman-Hanafy-Dev/Abdelrahman-Hanafy-Dev/blob/main/icons8-angular-48.png) Angular.](https://angular.io/)
 - [![nodejs_icon](nodejs_icon.png) Node.JS](https://nodejs.org/en/) & [![expressjs_icon](expressjs_icon.png) ExpressJS.](https://expressjs.com/)
 - [![asp.net_icon](dot_net_icon.png) ASP.NET.](https://dotnet.microsoft.com/en-us/apps/aspnet)
 - [![flask_icon](flask_icon.png) Flask.](https://flask.palletsprojects.com/en/2.1.x/)
+- [![flutter_icon](https://img.icons8.com/color/48/000000/flutter.png) Flutter.](https://flutter.dev/)
 
 # Database Engines I worked with
 
