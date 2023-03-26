@@ -1,4 +1,4 @@
-![banner](github_banner.jpg)
+![banner](https://github.com/Abdelrahman-Hanafy-Dev/Abdelrahman-Hanafy-Dev/blob/main/updated-github-banner.jpg)
 
 # About
 I'm a passionate Egyptian CS student at the German University in Cairo (GUC), currently in the 8th semester and eager to learn new things and gain experience.
