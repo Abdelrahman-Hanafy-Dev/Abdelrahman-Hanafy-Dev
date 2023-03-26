@@ -7,7 +7,7 @@ I'm a passionate Egyptian CS student at the German University in Cairo (GUC), cu
 
 Currently I'm :-
 - Working on enhancing my problem solving skills.
-- Working on improving my web development skills by implementing beautiful UIs and buildin complex systems.
+- Working on improving my web development skills by implementing beautiful UIs and building complex systems.
 
 # Connect with me
 [![Gmail-Icon](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:abdelrahmanhanafydev@gmail.com)
